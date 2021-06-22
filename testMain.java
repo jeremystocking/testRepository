@@ -10,5 +10,6 @@ public class testMain {
 		Scanner scan = new Scanner(System.in);
 		String userName = scan.next();
 		System.out.println("Thank you for joining us " + userName + "!");
+		//This is a comment
 	}
 }
